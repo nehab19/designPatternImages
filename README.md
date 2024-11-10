@@ -1,1 +1,1 @@
-# It contains XMl diagram for design patterns
+# It contains XML diagram for design patterns
